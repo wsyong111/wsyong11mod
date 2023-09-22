@@ -1,0 +1,6 @@
+{
+	"parent": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster",
+	"textures": {
+		"top": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_15"
+	}
+}

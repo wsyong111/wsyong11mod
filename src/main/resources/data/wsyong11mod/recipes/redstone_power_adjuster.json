@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AGA",
+		"RQR",
+		"SSS"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:air"
+		},
+		"G": {
+			"tag": "forge:glass_panes"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"Q": {
+			"tag": "forge:gems/quartz"
+		},
+		"S": {
+			"tag": "forge:stone"
+		}
+	},
+	"result": {
+		"item": "wsyong11mod:redstone_power_adjuster",
+		"count": 1
+	}
+}

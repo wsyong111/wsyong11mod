@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "wsyong11mod:item/tnt_bread/tnt_bread"
+	}
+}

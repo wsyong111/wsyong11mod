@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.wsyong11.wsyong11mod.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "wsyong11Mod.refmap.json",
+	"mixins": [
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

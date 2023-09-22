@@ -1,0 +1,112 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "wsyong11mod:block/c4/tnt_texture",
+		"txt_texture": "wsyong11mod:block/c4/tnt_texture",
+		"tnt_controller": "wsyong11mod:block/c4/tnt_controller",
+		"wire": "wsyong11mod:block/c4/wire"
+	},
+	"elements": [
+		{
+			"name": "tnt_left",
+			"from": [5, 0, 3],
+			"to": [8, 3, 13],
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#txt_texture"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#txt_texture"},
+				"west": {"uv": [0, 2, 7, 4], "texture": "#txt_texture"},
+				"up": {"uv": [2, 11, 0, 4], "texture": "#txt_texture"},
+				"down": {"uv": [4, 4, 2, 11], "texture": "#txt_texture"}
+			}
+		},
+		{
+			"name": "tnt_right",
+			"from": [8, 0, 3],
+			"to": [11, 3, 13],
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#txt_texture"},
+				"east": {"uv": [0, 0, 7, 2], "texture": "#txt_texture"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#txt_texture"},
+				"west": {"uv": [0, 2, 7, 4], "texture": "#txt_texture"},
+				"up": {"uv": [2, 11, 0, 4], "texture": "#txt_texture"},
+				"down": {"uv": [4, 4, 2, 11], "texture": "#txt_texture"}
+			}
+		},
+		{
+			"name": "controller",
+			"from": [5.75, 3, 5],
+			"to": [10.25, 4.25, 11],
+			"faces": {
+				"north": {"uv": [0, 10, 5, 11], "texture": "#tnt_controller"},
+				"east": {"uv": [0, 9, 6, 10], "texture": "#tnt_controller"},
+				"south": {"uv": [5, 10, 10, 11], "texture": "#tnt_controller"},
+				"west": {"uv": [6, 9, 12, 10], "texture": "#tnt_controller"},
+				"up": {"uv": [7, 9, 0, 0], "texture": "#tnt_controller"}
+			}
+		},
+		{
+			"name": "wire",
+			"from": [6.25, 1.25, 11],
+			"to": [6.75, 3.5, 13.5],
+			"faces": {
+				"east": {"uv": [0, 0, 3, 3], "texture": "#wire"},
+				"south": {"uv": [3, 3, 4, 6], "texture": "#wire"},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#wire"},
+				"up": {"uv": [5, 3, 4, 0], "texture": "#wire"},
+				"down": {"uv": [5, 3, 4, 6], "texture": "#wire"}
+			}
+		},
+		{
+			"name": "wire",
+			"from": [9.25, 1.25, 11],
+			"to": [9.75, 3.5, 13.5],
+			"faces": {
+				"east": {"uv": [0, 0, 3, 3], "texture": "#wire"},
+				"south": {"uv": [3, 3, 4, 6], "texture": "#wire"},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#wire"},
+				"up": {"uv": [5, 3, 4, 0], "texture": "#wire"},
+				"down": {"uv": [5, 3, 4, 6], "texture": "#wire"}
+			}
+		},
+		{
+			"name": "wire",
+			"from": [9.25, 1.25, 2.5],
+			"to": [9.75, 3.5, 5],
+			"faces": {
+				"north": {"uv": [3, 0, 4, 3], "texture": "#wire"},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#wire"},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#wire"},
+				"up": {"uv": [5, 3, 4, 0], "texture": "#wire"},
+				"down": {"uv": [5, 3, 4, 6], "texture": "#wire"}
+			}
+		},
+		{
+			"name": "wire",
+			"from": [6.25, 1.25, 2.5],
+			"to": [6.75, 3.5, 5],
+			"faces": {
+				"north": {"uv": [3, 0, 4, 3], "texture": "#wire"},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#wire"},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#wire"},
+				"up": {"uv": [5, 3, 4, 0], "texture": "#wire"},
+				"down": {"uv": [5, 3, 4, 6], "texture": "#wire"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "tnt",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		},
+		2,
+		{
+			"name": "wire",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3, 4, 5, 6]
+		}
+	]
+}

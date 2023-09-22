@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:bread"
+		},
+		{
+			"item": "minecraft:tnt"
+		},
+		{
+			"item": "minecraft:tnt"
+		},
+		{
+			"item": "minecraft:tnt"
+		}
+	],
+	"result": {
+		"item": "wsyong11mod:tnt_bread",
+		"count": 1,
+		"nbt": {
+			"level": 8.0
+		}
+	}
+}

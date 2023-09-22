@@ -1,0 +1,260 @@
+{
+	"variants": {
+		"facing=north,power=0": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster",
+			"y": 180
+		},
+		"facing=north,power=1": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power1",
+			"y": 180
+		},
+		"facing=north,power=2": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power2",
+			"y": 180
+		},
+		"facing=north,power=3": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power3",
+			"y": 180
+		},
+		"facing=north,power=4": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power4",
+			"y": 180
+		},
+		"facing=north,power=5": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power5",
+			"y": 180
+		},
+		"facing=north,power=6": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power6",
+			"y": 180
+		},
+		"facing=north,power=7": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power7",
+			"y": 180
+		},
+		"facing=north,power=8": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power8",
+			"y": 180
+		},
+		"facing=north,power=9": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power9",
+			"y": 180
+		},
+		"facing=north,power=10": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power10",
+			"y": 180
+		},
+		"facing=north,power=11": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power11",
+			"y": 180
+		},
+		"facing=north,power=12": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power12",
+			"y": 180
+		},
+		"facing=north,power=13": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power13",
+			"y": 180
+		},
+		"facing=north,power=14": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power14",
+			"y": 180
+		},
+		"facing=north,power=15": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power15",
+			"y": 180
+		},
+		"facing=east,power=0": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster",
+			"y": 270
+		},
+		"facing=east,power=1": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power1",
+			"y": 270
+		},
+		"facing=east,power=2": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power2",
+			"y": 270
+		},
+		"facing=east,power=3": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power3",
+			"y": 270
+		},
+		"facing=east,power=4": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power4",
+			"y": 270
+		},
+		"facing=east,power=5": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power5",
+			"y": 270
+		},
+		"facing=east,power=6": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power6",
+			"y": 270
+		},
+		"facing=east,power=7": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power7",
+			"y": 270
+		},
+		"facing=east,power=8": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power8",
+			"y": 270
+		},
+		"facing=east,power=9": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power9",
+			"y": 270
+		},
+		"facing=east,power=10": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power10",
+			"y": 270
+		},
+		"facing=east,power=11": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power11",
+			"y": 270
+		},
+		"facing=east,power=12": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power12",
+			"y": 270
+		},
+		"facing=east,power=13": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power13",
+			"y": 270
+		},
+		"facing=east,power=14": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power14",
+			"y": 270
+		},
+		"facing=east,power=15": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power15",
+			"y": 270
+		},
+		"facing=south,power=0": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster",
+			"y": 0
+		},
+		"facing=south,power=1": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power1",
+			"y": 0
+		},
+		"facing=south,power=2": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power2",
+			"y": 0
+		},
+		"facing=south,power=3": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power3",
+			"y": 0
+		},
+		"facing=south,power=4": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power4",
+			"y": 0
+		},
+		"facing=south,power=5": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power5",
+			"y": 0
+		},
+		"facing=south,power=6": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power6",
+			"y": 0
+		},
+		"facing=south,power=7": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power7",
+			"y": 0
+		},
+		"facing=south,power=8": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power8",
+			"y": 0
+		},
+		"facing=south,power=9": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power9",
+			"y": 0
+		},
+		"facing=south,power=10": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power10",
+			"y": 0
+		},
+		"facing=south,power=11": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power11",
+			"y": 0
+		},
+		"facing=south,power=12": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power12",
+			"y": 0
+		},
+		"facing=south,power=13": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power13",
+			"y": 0
+		},
+		"facing=south,power=14": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power14",
+			"y": 0
+		},
+		"facing=south,power=15": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power15",
+			"y": 0
+		},
+		"facing=west,power=0": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster",
+			"y": 90
+		},
+		"facing=west,power=1": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power1",
+			"y": 90
+		},
+		"facing=west,power=2": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power2",
+			"y": 90
+		},
+		"facing=west,power=3": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power3",
+			"y": 90
+		},
+		"facing=west,power=4": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power4",
+			"y": 90
+		},
+		"facing=west,power=5": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power5",
+			"y": 90
+		},
+		"facing=west,power=6": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power6",
+			"y": 90
+		},
+		"facing=west,power=7": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power7",
+			"y": 90
+		},
+		"facing=west,power=8": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power8",
+			"y": 90
+		},
+		"facing=west,power=9": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power9",
+			"y": 90
+		},
+		"facing=west,power=10": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power10",
+			"y": 90
+		},
+		"facing=west,power=11": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power11",
+			"y": 90
+		},
+		"facing=west,power=12": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power12",
+			"y": 90
+		},
+		"facing=west,power=13": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power13",
+			"y": 90
+		},
+		"facing=west,power=14": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power14",
+			"y": 90
+		},
+		"facing=west,power=15": {
+			"model": "wsyong11mod:block/redstone_power_adjuster/redstone_power_adjuster_power15",
+			"y": 90
+		}
+	}
+}
